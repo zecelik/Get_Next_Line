@@ -1,4 +1,4 @@
-
+#Get_Next_Line
 Get_next_line fonksiyonu, bir dosyadan veya bir giriş akışından (input stream) satır satır veri okumak için kullanılan bir fonksiyondur.
 Bu fonksiyon, her çağrıldığında dosyadaki veya giriş akışındaki bir sonraki satırı okur ve bir karakter dizisi olarak döndürür.
 Fonksiyon, her çağrıldığında bellekte bir tampon oluşturarak satırı bir karakter dizisine (string) kopyalar. 
